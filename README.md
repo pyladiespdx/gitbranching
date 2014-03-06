@@ -1,5 +1,6 @@
-this is the readme
+Git Branching Readme
 =======================
 
+This is a repo for the pyladies class to practice branching and merging.    
 
-where I put the stuff for the readme    
+Selena++
